@@ -1,0 +1,14 @@
+Origen de datos para correr el modelo Invest:
+1. Las coberturas y archivos para correr el modelo para las cuencas objetivo pueden encontrarse en la carpeta 01-Entradas_InVEST que se encuentra en:
+https://drive.google.com/file/d/1C4IzLLsUev-vZrWcoViGhpsPsXstUvgh/view?usp=sharing
+
+2. Los resultados de calibracion para las cuencas objetivo se encuentran en la carpeta 02-Resultados_Calibración_InVEST que se encuentra en:
+ https://drive.google.com/file/d/1C1fhCXrD1SwxwOdVkf4Tfm0m-RQEToj0/view?usp=sharing
+
+3. Los resultados de las primeras corridas se encuentran en 03-Resultados_InVEST_Calibrados 
+https://drive.google.com/file/d/1C6GcJpq5UYLu8dIv9FG2JEyGYlbpF0Fg/view?usp=sharing
+
+4. Las coberturas finales para correr los escenarios los escenarios con cobertura actual  con la implementacion de las SbN1 Agroforesteria (carpeta lulce_sbn1), SbN2 Silvopastoril (carpeta lulce_sbn2), SbN3 Restauración Activa (carpeta lulce_sbn3), SbN4 Restauración pasiva (carpeta lulce_sbn4) y SbN5 Conservación (carpeta lulce_sbn5), asi como para el escenario de futuro degradado sin implementacion de SbN, Business as Usual, (carpeta lulce_deg) y futuro degradado con implementacion de las SbN segun el portafolio definido (carpeta lulce_deg_sbn15) todos los anteriores en la carpeta raíz 04-Coberturas_Entrada_Invest que se encuentra en:
+https://drive.google.com/file/d/1EvXIS3Y5m_UICcPqVfTPOeyh019kjWvc/view?usp=sharing
+5. Los resultados finales de las corridas para los escenarios con cobertura actual  con la implementacion de las SbN1 Agroforesteria (carpeta lulce_sbn1), SbN2 Silvopastoril (carpeta lulce_sbn2), SbN3 Restauración Activa (carpeta lulce_sbn3), SbN4 Restauración pasiva (carpeta lulce_sbn4) y SbN5 Conservación (carpeta lulce_sbn5), asi como para el escenario de futuro degradado sin implementacion de SbN, Business as Usual, (carpeta lulce_deg) y futuro degradado con implementacion de las SbN segun el portafolio definido (carpeta lulce_deg_sbn15) todos los anteriores en la carpeta raíz 05-Resultados_Escenarios que se encuentra en:
+https://drive.google.com/file/d/1Euh9eG6YHN5t1QgOeKKLq2aSFGdOjX7J/view?usp=sharing
